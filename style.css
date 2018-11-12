@@ -1,0 +1,12 @@
+body {
+  background-color: #161616;
+}
+div {
+  text-align: center;
+  width: 100vw;
+}
+a {
+  text-decoration: none;
+  color: orange;
+  line-height: 100vh;
+}
